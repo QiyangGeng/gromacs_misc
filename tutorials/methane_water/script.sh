@@ -10,6 +10,7 @@
 #       chmod +x FreeEnergyTutorial.sh
 #       ./FreeEnergyTutorial.sh [lambda] [t in Kelvin] {deleteFile: F to not}
 # Then, wait a while, and it should be good
+# Tested on Ubuntu 18.04 and 20.04.
 
 # Check parameters
 if [[ $# -lt 2 ]]; then
