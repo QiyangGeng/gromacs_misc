@@ -1,6 +1,6 @@
 #!/bin/bash
 ################################################################################################
-# A script for running my script for Ethan's free energymethane water gromacs tutorial
+# A script for running my script for Ethan's free energy methane water gromacs tutorial
 # Author:               Yang
 # Created:              2022/02/13
 # Last modified:        2022/02/13
