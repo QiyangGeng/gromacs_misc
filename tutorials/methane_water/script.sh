@@ -29,7 +29,7 @@ let lamb=$1
 let temp=$2
 
 # We set up a new directory
-dir=methane_script_$lamb
+dir=methane_script_$lamb_$temp
 [ ! -e $dir ] || rm -r $dir; mkdir $dir
 
 # See if the necessary files exists in the current directory, otherwise download the necessary files
