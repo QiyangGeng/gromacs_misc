@@ -1,0 +1,1 @@
+This is a collection of files assosiated with the **Methane in Water** tutorial by Ethan. The `script.sh` will run the tutorial automatically given a state point. The `run_script.sh` file will run the former script at multiple state points. See the script documentation for how to use.
